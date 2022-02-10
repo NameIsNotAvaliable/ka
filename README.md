@@ -7,7 +7,7 @@
 	<body>
 		<hl>SIIIIUUUUU</hl>
 			
-			<a href="./HTML2.html">zuruck</a>
+			<a href="https://nameisnotavaliable.github.io/ka/HTML2.html">zuruck</a>
 		
 	</body>
 
